@@ -9,7 +9,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 
 # :family: Autores
-
+,
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 <table>
